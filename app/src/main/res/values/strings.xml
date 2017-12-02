@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Trabalho1</string>
+    <string name="title_activity_cadastrar_participante">Cadastrar Participante</string>
+    <string name="title_activity_cadastrar_livro">Cadastrar Livro</string>
+    <string name="title_activity_cadastrar_reserva">Cadastrar Reserva</string>
+    <string name="title_activity_dados_participantes">Dados do Participantes</string>
+    <string name="title_activity_dados_livros">Dados do Livros</string>
+</resources>
